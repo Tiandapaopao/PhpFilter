@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Filter;
+namespace App\Filter;
 
 
 class Security

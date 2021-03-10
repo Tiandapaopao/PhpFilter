@@ -1,6 +1,6 @@
 <?php
 
-namespace Filter;
+namespace App\Filter;
 
 class Index{
     public static function getVal() {
